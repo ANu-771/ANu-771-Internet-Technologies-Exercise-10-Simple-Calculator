@@ -34,12 +34,11 @@ It supports all essential calculator functions in a clean and user-friendly inte
 ---
 
 ## 📁 Project Structure
-Calculator-Project/
-│
-├── index.html # UI Structure
-├── style.css # Styling and Design
-├── script.js # Calculator Logic
-└── README.md # Documentation
+calculator-project/
+│── index.html # UI Structure
+│── style.css  # Styling and Design
+│── script.js  # Calculator Logic
+└── README.md   # Documentation
 
 ---
 
