@@ -33,15 +33,6 @@ It supports all essential calculator functions in a clean and user-friendly inte
 
 ---
 
-## 📁 Project Structure
-calculator-project/
-│── index.html # UI Structure
-│── style.css  # Styling and Design
-│── script.js  # Calculator Logic
-└── README.md   # Documentation
-
----
-
 ## 🎬 Reference
 
 Project concept inspired by the following sample video:  
