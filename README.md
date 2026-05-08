@@ -1,96 +1,84 @@
 # 🧮 Simple Calculator using HTML, CSS & JavaScript
 
-![Calculator Banner](https://via.placeholder.com/900x250.png?text=Simple+Calculator+Project)
-
-A clean and simple calculator web application built using **HTML, CSS, and JavaScript** without using any external libraries or plugins.  
-This project is designed for beginners to understand how JavaScript handles logic and DOM manipulation.
+A simple and interactive **web-based calculator** built using **HTML, CSS, and JavaScript** without using any external plugins or frameworks.  
+This project is created for educational purposes to demonstrate basic frontend development and JavaScript logic handling.
 
 ---
 
-## 🎬 Demo Reference
+## 📌 Project Overview
 
-👉 Sample Video:  
-https://www.youtube.com/watch?v=Qbcs2eYNkeM&feature=youtu.be
+This calculator performs basic arithmetic operations and helps users understand how JavaScript interacts with HTML elements using DOM manipulation and event handling.
+
+It supports all essential calculator functions in a clean and user-friendly interface.
 
 ---
 
 ## ✨ Features
 
-✔️ Addition (+)  
-✔️ Subtraction (−)  
-✔️ Multiplication (×)  
-✔️ Division (÷)  
-✔️ Equals (=) operation  
-✔️ All Clear (AC) button  
-✔️ Responsive and clean UI design  
+* ➕ Addition operation  
+* ➖ Subtraction operation  
+* ✖️ Multiplication operation  
+* ➗ Division operation  
+* 🟰 Equals (=) functionality  
+* 🧹 All Clear (AC) button  
+* Simple and responsive UI  
 
 ---
 
-## 🛠️ Technologies Used
+## 💻 Technologies Used
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 📂 Project Structure
-calculator-project/
-│── index.html # Structure of calculator
-│── style.css # Styling and design
-│── script.js # Calculator logic
-└── README.md # Project documentation
-
+* HTML5 – Structure of the application  
+* CSS3 – Styling and layout design  
+* JavaScript (Vanilla JS) – Logic and functionality  
 
 ---
 
-## ⚙️ How It Works
-
-🟢 Click numbers and operators  
-🟢 JavaScript captures button events  
-🟢 Performs calculations dynamically  
-🟢 Displays result on screen  
-🟢 AC resets everything instantly  
-
----
-
-## 🖥️ UI Preview
-
-![Calculator UI](https://via.placeholder.com/800x400.png?text=Calculator+UI+Preview)
+## 📁 Project Structure
+Calculator-Project/
+│
+├── index.html # UI Structure
+├── style.css # Styling and Design
+├── script.js # Calculator Logic
+└── README.md # Documentation
 
 ---
 
-## 📚 Learning Outcomes
+## 🎬 Reference
 
-This project helps you learn:
-
-- DOM Manipulation in JavaScript  
-- Event Handling (click events)  
-- Basic Arithmetic Logic Implementation  
-- UI Design using CSS  
-- Building real-world mini projects  
+Project concept inspired by the following sample video:  
+https://www.youtube.com/watch?v=Qbcs2eYNkeM&feature=youtu.be
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 How to Run the Project
 
-- Scientific calculator mode  
-- Keyboard input support  
-- Dark mode UI  
-- History feature  
+1. Download or clone the repository  
+2. Open the project folder  
+3. Open `index.html` in any browser  
+4. Start using the calculator  
+
+---
+
+## 🧠 Learning Outcome
+
+This project helped in understanding:
+
+* DOM manipulation in JavaScript  
+* Event handling (button clicks)  
+* Basic arithmetic logic implementation  
+* UI design using CSS  
+* Building interactive frontend applications  
 
 ---
 
 ## 👨‍💻 Author
 
-💡 Developed as a beginner-friendly frontend project for learning purposes.
+Developed by [ISURU ANUPAMA](https://github.com/ANu-771)
 
 ---
 
-## 📜 License
+## 📌 Note
 
-This project is free to use for educational purposes.
+This project is developed for educational purposes only and does not use any external calculator libraries or plugins.
 
----
 
-⭐ If you like this project, don’t forget to star the repository!
